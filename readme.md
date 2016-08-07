@@ -4,6 +4,6 @@ lib放静态文件或者库
 
 src放开发文件
 
-clone then run cmd:npm init
+clone then run cmd:npm install
 
 run cmd : gulp
